@@ -1,0 +1,43 @@
+h1{
+    text-align: center;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: beige;
+}
+.Bold{
+    font-weight: bold;
+}
+.Underline{
+    text-decoration: underline;
+}
+.Normal{
+    text-decoration: none;
+}
+.ParagraphRamble{ 
+    display: inline;
+    position: absolute;
+    margin-top: 200px;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align: justify;
+}
+.Image{
+    display: inline;
+    white-space: nowrap;
+}
+.Anchor{
+    text-align: left;
+    position: relative;
+}
+.AnotherRamble{
+    display: inline;
+    position: absolute;
+    margin-top: 200px;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align: justify;
+}
+.TableauGuy{
+    width: 100px;
+}
